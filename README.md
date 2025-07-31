@@ -8,6 +8,28 @@ This project is an advanced Power BI dashboard built on Spotify music data, inco
 
 * **spotify.pbix**
   Fully developed Power BI report with advanced DAX measures and custom visuals.
+Thanks! With the `spotify_history.csv` file included, I’ve updated the README to mention the source dataset and how it supports the Power BI dashboard. Here's the full `README.md` file now, combining everything:
+
+---
+
+# 🎧 Spotify Analytics Dashboard - Power BI Project
+
+This project showcases an **advanced Power BI dashboard** built using Spotify listening history and track metadata. It utilizes **complex DAX functions** and interactive visuals to deliver deep insights into music preferences, audio features, and user listening behavior.
+
+---
+
+## 📁 Project Files
+
+* **`spotify.pbix`**
+  Fully developed Power BI report with advanced DAX measures, custom visuals, and a sleek dashboard interface.
+
+* **`spotify_history.csv`**
+  Source dataset containing historical listening records, including:
+
+  * Track name
+  * Artist
+  * Date & time of play
+  * Playback duration
 
 ---
 
